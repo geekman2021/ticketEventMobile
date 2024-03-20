@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916476662505",
+    "project_id": "ticket-event-ffa66",
+    "storage_bucket": "ticket-event-ffa66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916476662505:android:96b504aa9de99516e35678",
+        "android_client_info": {
+          "package_name": "com.therak.TicketEventMobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP6rl_SxiA_xBy5bD_Y3I9BSJskhnVjHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
