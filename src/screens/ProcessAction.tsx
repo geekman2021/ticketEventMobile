@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const Login = () => {
+const ProcessAction = () => {
   return (
     <View>
-      <Text>Email</Text>
+      <Text>ProcessAction</Text>
     </View>
   );
 };
 
-export default Login;
+export default ProcessAction;
